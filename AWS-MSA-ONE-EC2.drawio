@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T11:07:00.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6Q7UBqbiBNKmEf8WvMqa" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T12:39:59.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-rh537rW2YdlLddFvCpU" version="21.6.9" type="github">
   <diagram name="페이지-1" id="3UVqjSPEEZ5g8GhO6IBH">
-    <mxGraphModel dx="830" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="C46rThDHwI7i-IDo0Er--22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" parent="0eKg8kC4gw_gfWmYVER0-3" vertex="1">
           <mxGeometry x="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0eKg8kC4gw_gfWmYVER0-11" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;" vertex="1" parent="1">
+          <mxGeometry x="620" y="330" width="78" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
